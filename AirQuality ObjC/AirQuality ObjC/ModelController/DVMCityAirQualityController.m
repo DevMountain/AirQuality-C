@@ -15,7 +15,7 @@ static NSString *const countryComponent = @"countries";
 static NSString *const stateComponenet = @"states";
 static NSString *const cityComponent = @"cities";
 static NSString *const cityDetailsComponent = @"city";
-static NSString *const apiKey = @"2d50afec-b190-497d-9fbf-647cb91462b0";
+static NSString *const apiKey = @"INSERT API KEY"; //create an API key at https://www.iqair.com/dashboard/api
 
 @implementation DVMCityAirQualityController
 
